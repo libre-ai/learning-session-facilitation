@@ -1,0 +1,22 @@
+Sessions is a multi-licence repository of the Libre AI project.
+
+The licence for each file is declared through SPDX metadata and REUSE.toml:
+
+- EUPL-1.2: the Rust application workspace, the development environment, the
+  packaging and verification scripts, the end-to-end suite, the database
+  inspection manifest and the workflows under `.github/` — first-party software
+  and runtime policy by default;
+- Apache-2.0: the interoperability contracts under `docs/contracts/` and their
+  synthetic fixtures, and the generated design-system assets under
+  `crates/ui/fixtures/portal/` together with the token and theme sheets they
+  emit under `crates/ui/src/` — client-facing design output;
+- CC-BY-4.0: editorial documentation and first-party project records.
+
+Full licence texts are stored in LICENSES/.
+
+The organization-wide licensing policy — scope, precedence, historical grants,
+data and contribution rules — is the canonical one and is not restated here:
+https://github.com/libre-ai/libre-ai/blob/main/LICENSING.md
+
+Historical revisions previously published under MIT remain available under
+those terms. No previous licence grant is withdrawn.

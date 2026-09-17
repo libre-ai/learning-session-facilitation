@@ -13,6 +13,6 @@ Préparer et suivre une session d’apprentissage avec des sources, des rôles e
 - Préciser les activités des participants et les tâches qui peuvent être déléguées.
 - Suivre les événements de la session et revenir sur ce qui s’est passé.
 
-**Aujourd’hui :** ce dépôt présente le projet sous forme de documentation ; aucune application n’est encore disponible.
+**Aujourd’hui :** le code et les tests sont présents ; leur intégration locale est en cours. Le [guide de développement](docs/DEVELOPMENT.md) décrit l’installation et les vérifications.
 
 [Catalogue](https://github.com/libre-ai/.github/blob/main/profile/README.fr.md) · [Contribuer](https://github.com/libre-ai/.github/blob/main/CONTRIBUTING.md) · [English](README.md) · [Licence CC BY 4.0](LICENSES/CC-BY-4.0.txt)

@@ -1,0 +1,419 @@
+{
+  "schemaVersion": "code-recovery.v1",
+  "files": [
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": ".gitignore",
+      "sourceBlob": "5a430e6a37059665b16bc9d2075c97607dff339d",
+      "destinationPath": ".gitignore",
+      "sha256": "19b23de57a80020117177f6f3a34b5b5ce98c2623a8e8e6e211453bbf6458bfa"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "LICENSE",
+      "sourceBlob": "9d067e3a3b06b4546731ba742f9317ae51bfc2bd",
+      "destinationPath": "LICENSE",
+      "sha256": "365da58de5815b657bf086716e118371d1eda9f3f7558a02792c7e0b5d081fdd"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "LICENSES/CC-BY-4.0.txt",
+      "sourceBlob": "13ca539f377dc705af32b8d2ce89262298ea2f06",
+      "destinationPath": "docs/source-licensing/sessions/LICENSES/CC-BY-4.0.txt",
+      "sha256": "d557539df68e771cc1eedcc91d13f70fca930e508d11eedcafa4b15db49e3744"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "LICENSES/EUPL-1.2.txt",
+      "sourceBlob": "6d8cea430e21d06532225018850da91a3f44abf5",
+      "destinationPath": "LICENSES/EUPL-1.2.txt",
+      "sha256": "57fb42fbcd0b037ce528ed8f72f1ec095d67bc6825ecf1448ff39be1fe68a4b4"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "REUSE.toml",
+      "sourceBlob": "a04de6dcab60742b141c638cff7ccef8abd497a9",
+      "destinationPath": "REUSE.toml",
+      "sha256": "8e321a42100e695d450d92a4288efc904abfc318d0e908251d4025140272995d"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/README.md",
+      "sourceBlob": "cd1e9c86d73c129554f604dc283db69cfe194fe7",
+      "destinationPath": "apps/sessions/README.md",
+      "sha256": "cd7be5dd86588caf79528a55ee18c95adf2022be176b601241958971e0e168a3"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/art30-register.json",
+      "sourceBlob": "6f7eb5c491cfefb772d43d572b580eb645357d7d",
+      "destinationPath": "apps/sessions/art30-register.json",
+      "sha256": "4e6674dc2a0e6f2f50f8502fad13a7a1345777f97d0495a8de1ffd31c506ba56"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/bun.lock",
+      "sourceBlob": "f3515c0f56d063ea997d1268ba56cad037e5534e",
+      "destinationPath": "apps/sessions/bun.lock",
+      "sha256": "8339c86ef470100461688e27e476fce1663d199e98b665b427b61c2caa3c99e2"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/migrations/0001_sessions.sql",
+      "sourceBlob": "0a359f9668261b3309eaba1251940d5a755dddb7",
+      "destinationPath": "apps/sessions/migrations/0001_sessions.sql",
+      "sha256": "9b82351523aca43c641b1d91ff1f160b0de82289d0af3eeb7bb7275b2b2a2e14"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/migrations/0002_rgpd.sql",
+      "sourceBlob": "1fd9d44450f28f38e804f3329710d14281af68c5",
+      "destinationPath": "apps/sessions/migrations/0002_rgpd.sql",
+      "sha256": "4536f55028dcd0b8794f036ab6c89f11d17dee86d4edd007e3df336cdfd228c6"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/migrations/0003_actor_digest.sql",
+      "sourceBlob": "ea974cabef4aec721b36870829d4c28bd8b99928",
+      "destinationPath": "apps/sessions/migrations/0003_actor_digest.sql",
+      "sha256": "7263b09a51f88621a59b3688ac245d1c090f9b9c7f8f90c9645ad77051894ca3"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/migrations/0004_restriction.sql",
+      "sourceBlob": "c6793129f991b1e0e22a0f3e5a3c4f56298547e9",
+      "destinationPath": "apps/sessions/migrations/0004_restriction.sql",
+      "sha256": "a2b5f259079d9d4c91603752237e138f7aa4086b8596af2ac045833a36937ddc"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/migrations/0005_retention_grants.sql",
+      "sourceBlob": "72d28fda1ccaef7fd4c9cbf2a3b4eab13e6e9935",
+      "destinationPath": "apps/sessions/migrations/0005_retention_grants.sql",
+      "sha256": "6b6feee3fe45fc486afcd9d8ba4fc4957b87e5b29a407675ef3dd289a9fe9862"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/package.json",
+      "sourceBlob": "bd995e94291c8b58ba54424b2889873137345aaa",
+      "destinationPath": "apps/sessions/package.json",
+      "sha256": "8c9ed7facf9d867746338fc1593ba18c8c035a168435c03964c9e32047d36ec2"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/src/app/execute-command.integration.test.ts",
+      "sourceBlob": "232a52ccbb40098f830b3e7cc61b2d0e08ddd376",
+      "destinationPath": "apps/sessions/src/app/execute-command.integration.test.ts",
+      "sha256": "c95a501c8f872ae66447fd365b873a3c2fdcf3e955a88ac1cc0d44bb7048a15d"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/src/app/execute-command.ts",
+      "sourceBlob": "03b451960e17bf65b666c101912cf96c57303407",
+      "destinationPath": "apps/sessions/src/app/execute-command.ts",
+      "sha256": "1a0e45ce4bcb46ceeb2591dbfdd780cdf80f0e1067809074b76242b423943bb2"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/src/authz/session-authorization.test.ts",
+      "sourceBlob": "4171ecfacbd64cda0de8a8606b06a3a93328b48d",
+      "destinationPath": "apps/sessions/src/authz/session-authorization.test.ts",
+      "sha256": "2718ea160f5260c61f9126d24802fd28a995469ab6ad603f824286dd9f32ac0f"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/src/authz/session-authorization.ts",
+      "sourceBlob": "235665efc4c908f2802e056b31c788c0293fe2d6",
+      "destinationPath": "apps/sessions/src/authz/session-authorization.ts",
+      "sha256": "d332f3e93134593a2b0b976a048ef111a9b05e78781a346b28e0fb49cb9433aa"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/src/domain/session-event.test.ts",
+      "sourceBlob": "8f3bfa698d2667af25769cdedbc2fc082bf16b5b",
+      "destinationPath": "apps/sessions/src/domain/session-event.test.ts",
+      "sha256": "5221b11322893c2496a2d0db4483bc88d67d6f32ebe8e59bf6e1a8af724c39da"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/src/domain/session-event.ts",
+      "sourceBlob": "f9ff478f83021bb3b92472bed8425012cd4f5219",
+      "destinationPath": "apps/sessions/src/domain/session-event.ts",
+      "sha256": "752c9d06fae7635efdb1c61dd96c9a2e6aa406887835085478c22784cb47722e"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/src/persistence/session-event-store.integration.test.ts",
+      "sourceBlob": "6301467039fcaf1bdf46dd138d173eecd905a0a4",
+      "destinationPath": "apps/sessions/src/persistence/session-event-store.integration.test.ts",
+      "sha256": "8541d0a78266fcb067cb11c4f2951c6aa0c6ceb9962a050a1e28babe4f5e7671"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/src/persistence/session-event-store.ts",
+      "sourceBlob": "022240fc608d8e52c3a69a19cd6b7bc6ce9e5875",
+      "destinationPath": "apps/sessions/src/persistence/session-event-store.ts",
+      "sha256": "c80c2c21e096aec510d990657103afa7e80d9c3f0abb6f46801a0907f8b91ba0"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/src/rgpd/art30-entry.test.ts",
+      "sourceBlob": "14cc9395db935fbf1a3e4790b35bc5409ad2e3fe",
+      "destinationPath": "apps/sessions/src/rgpd/art30-entry.test.ts",
+      "sha256": "0959ae4a4c887867c8d43d3032ef00ee432c6e3e03f4023c8ec63a0095a1241b"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/src/rgpd/data-subject-rights.integration.test.ts",
+      "sourceBlob": "151170c0c8d4f5186103325ded4afdda94bb9964",
+      "destinationPath": "apps/sessions/src/rgpd/data-subject-rights.integration.test.ts",
+      "sha256": "b38b084e615c6974491584653d0eecaa087d4ff58102eeb221815085e720ef5a"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/src/rgpd/data-subject-rights.ts",
+      "sourceBlob": "bc6d1ca2a8540da2dfafba91e30781bd03ff5e80",
+      "destinationPath": "apps/sessions/src/rgpd/data-subject-rights.ts",
+      "sha256": "d1b047bde27f2b066d365081db18e147aaf0ee8babb91137c3a692d5f7d3bafd"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/src/rgpd/migration.integration.test.ts",
+      "sourceBlob": "03e57b5ecb7890f652def94d3fdfb1f2921a00b4",
+      "destinationPath": "apps/sessions/src/rgpd/migration.integration.test.ts",
+      "sha256": "9a25c997ebad0dd7ac7b3d0aba101ef3a1bbb48c80e813444f0848dc02128c22"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/src/rgpd/request-handler.integration.test.ts",
+      "sourceBlob": "2a77b56d728e55c210396fc50bf2b5073599ec2f",
+      "destinationPath": "apps/sessions/src/rgpd/request-handler.integration.test.ts",
+      "sha256": "29a4a29c84525302185c663308f66a84141da134dc131628db22cfc8c96aa8d5"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/src/rgpd/request-handler.ts",
+      "sourceBlob": "f0ff58ccf7919bbc2b2cdeef43000214fa61295d",
+      "destinationPath": "apps/sessions/src/rgpd/request-handler.ts",
+      "sha256": "5cccd8c7f0e70074202bb5a480e941f0ee7519333a806aecdcec191738546212"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/src/rgpd/restriction.integration.test.ts",
+      "sourceBlob": "75d7e3b15dd1932f09aec580ef185679b1e49b76",
+      "destinationPath": "apps/sessions/src/rgpd/restriction.integration.test.ts",
+      "sha256": "8e65576a0463ff60843b40628a0a07aca801ed96ed995b5347517d8ea1d8994b"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/src/rgpd/restriction.ts",
+      "sourceBlob": "8cec1cc11d27145e3eacf50ac3508f54933c959c",
+      "destinationPath": "apps/sessions/src/rgpd/restriction.ts",
+      "sha256": "c19818748e18344f7163d246568495cb6a36a8474382cc91a5ba3c767cfe8075"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/src/rgpd/retention.integration.test.ts",
+      "sourceBlob": "05253a457b5090af005c3fba5acb1467ba3091e0",
+      "destinationPath": "apps/sessions/src/rgpd/retention.integration.test.ts",
+      "sha256": "ad44553beb421504009f5f8df3ddf189650b0e951908aa84771741e20de3cdee"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/src/rgpd/retention.ts",
+      "sourceBlob": "c76d83bf168b6b3d95f3235bdaa932dec528b9bb",
+      "destinationPath": "apps/sessions/src/rgpd/retention.ts",
+      "sha256": "3f9bb30987e0a62bf63540f8e131d45734e07db0b04490ab90a0c554bb711dd8"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/src/server/handler.test.ts",
+      "sourceBlob": "6b1d6d07227809e3a888fc51915dcf7fcf9cacc7",
+      "destinationPath": "apps/sessions/src/server/handler.test.ts",
+      "sha256": "725a1c90a5fd354372a104cce9ac06cd97546b2f238bc79717b635a5d80bf336"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/src/server/handler.ts",
+      "sourceBlob": "9822c18943b0bb72ad7c3bb2d61e51762e56012c",
+      "destinationPath": "apps/sessions/src/server/handler.ts",
+      "sha256": "3e8e420dfebfa61acc83f3225927653e1cfba47796372102eb09915d49ac8f3c"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/src/shared/document.tsx",
+      "sourceBlob": "c79693928a761e1044c978aa1a6fc18da9f9a043",
+      "destinationPath": "apps/sessions/src/shared/document.tsx",
+      "sha256": "bb123ee71f6456dcd53f08796cf858913d494835f2c05b9be1711a203c95687f"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/src/ui/fixture.ts",
+      "sourceBlob": "3363e9798d8bab1583a0b4b0bb663ea40528bc11",
+      "destinationPath": "apps/sessions/src/ui/fixture.ts",
+      "sha256": "5c128a9e3b5356cc8d250c98662b8de1af2140d555f83ac58f73954adde0d06d"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/src/ui/sessions-cockpit.test.tsx",
+      "sourceBlob": "fb9c8c94eabccb1d4dc9bb68325889308d534020",
+      "destinationPath": "apps/sessions/src/ui/sessions-cockpit.test.tsx",
+      "sha256": "3cd5b1cd7d5a851ecd84977f2dc32b20e80de9573ad5cce9ab2b505ce18ebc85"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "apps/sessions/src/ui/sessions-cockpit.tsx",
+      "sourceBlob": "e783d08c8079cb0b0d8b4e2b0a546580a5b513e1",
+      "destinationPath": "apps/sessions/src/ui/sessions-cockpit.tsx",
+      "sha256": "60e7bbc409d0f410ab46e8b3817dac65edbf1f48dd6a841a77b40fa661d123a7"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "biome.json",
+      "sourceBlob": "678746c73137365072a5c3a6649830c9d612ad87",
+      "destinationPath": "biome.json",
+      "sha256": "be7cb71bb43a859c4e2d173fdb8b26d314e7f69e0d83756aafdb30566c14f517"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "bun.lock",
+      "sourceBlob": "762f1421289afa521d1475aa766bc4dcc83a7c5a",
+      "destinationPath": "bun.lock",
+      "sha256": "9f7d4e352e5962d8556ae4fe82b82e04a6fbdbdfd1b2b1f766d7e99189bc86fc"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "bunfig.toml",
+      "sourceBlob": "187aad3cc3469a3aa9a58a0979a0e10f61fce2b9",
+      "destinationPath": "bunfig.toml",
+      "sha256": "5da4d7eb4d1e5c1c37d487034e56773e8e1f568daec675b114c5257942f48342"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "docs/apps/sessions.md",
+      "sourceBlob": "96f04a3ee4135e811ac93355d62b85f4b3577bff",
+      "destinationPath": "docs/apps/sessions.md",
+      "sha256": "16946b8fdc3dd194b39a6398576c328128e5964412b218f6a0f069821dd4f1e6"
+    },
+    {
+      "sourceRepository": "sessions",
+      "sourceCommit": "930c7d89c4e8b042d749d4b673c62bcc51a245ec",
+      "sourcePath": "package.json",
+      "sourceBlob": "813bda8e444830a223efe70cd48205e1be6c5451",
+      "destinationPath": "package.json",
+      "sha256": "312074466a25e061ae164b44ea34b511d2194b70c1224b05d97cfe9da6bbb883"
+    }
+  ],
+  "excluded": [
+    {
+      "source": "sessions",
+      "path": ".github/dependabot.yml",
+      "reason": "preserve current presentation and avoid activating historical agent/provider configuration"
+    },
+    {
+      "source": "sessions",
+      "path": ".github/workflows/ci.yml",
+      "reason": "preserve current presentation and avoid activating historical agent/provider configuration"
+    },
+    {
+      "source": "sessions",
+      "path": ".github/workflows/context-hygiene.yml",
+      "reason": "preserve current presentation and avoid activating historical agent/provider configuration"
+    },
+    {
+      "source": "sessions",
+      "path": "AGENTS.md",
+      "reason": "preserve current presentation and avoid activating historical agent/provider configuration"
+    },
+    {
+      "source": "sessions",
+      "path": "CLAUDE.md",
+      "reason": "preserve current presentation and avoid activating historical agent/provider configuration"
+    },
+    {
+      "source": "sessions",
+      "path": "README.md",
+      "reason": "preserve current presentation and avoid activating historical agent/provider configuration"
+    },
+    {
+      "source": "sessions",
+      "path": "project.v1.yaml",
+      "reason": "preserve current presentation and avoid activating historical agent/provider configuration"
+    }
+  ],
+  "status": "Source imported and locally tested; no publication or deployment performed.",
+  "adaptations": [
+    {
+      "path": ".gitignore",
+      "sourceSha256": "19b23de57a80020117177f6f3a34b5b5ce98c2623a8e8e6e211453bbf6458bfa",
+      "currentSha256": "8a2de8b3e4d25c532fd89bd03eb95e9f1c09e8876abf2a54abfa7f74aa04db9c",
+      "change": "Local composition, build/test adaptation or current presentation; original source remains preserved."
+    },
+    {
+      "path": "REUSE.toml",
+      "sourceSha256": "8e321a42100e695d450d92a4288efc904abfc318d0e908251d4025140272995d",
+      "currentSha256": "c5fc75236bfffe6581036cb8213325f3139f3d5a4ab7ed1175d7f6c7b760f136",
+      "change": "Local composition, build/test adaptation or current presentation; original source remains preserved."
+    },
+    {
+      "path": "apps/sessions/package.json",
+      "sourceSha256": "8c9ed7facf9d867746338fc1593ba18c8c035a168435c03964c9e32047d36ec2",
+      "currentSha256": "6ac37c0d21f3ac1fb9ef2ec152dc49d21726e51abe3f8e016a255ddd212ab628",
+      "change": "Local composition, build/test adaptation or current presentation; original source remains preserved."
+    },
+    {
+      "path": "bun.lock",
+      "sourceSha256": "9f7d4e352e5962d8556ae4fe82b82e04a6fbdbdfd1b2b1f766d7e99189bc86fc",
+      "currentSha256": "36101c6292956d520146b32e248df1e34b49571c20964a7d94ac090ad9dfe36a",
+      "change": "Local composition, build/test adaptation or current presentation; original source remains preserved."
+    },
+    {
+      "path": "package.json",
+      "sourceSha256": "312074466a25e061ae164b44ea34b511d2194b70c1224b05d97cfe9da6bbb883",
+      "currentSha256": "342ead56d185e96f150dd2845053fca4e8c4f15d12a58b97e007445693991d18",
+      "change": "Local composition, build/test adaptation or current presentation; original source remains preserved."
+    }
+  ]
+}

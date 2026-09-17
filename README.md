@@ -13,6 +13,6 @@ Prepare and follow a learning session with clear source material, participant ro
 - Clarify what participants are expected to do and which tasks may be delegated.
 - Follow the session's events and review what happened afterwards.
 
-**Today:** this repository documents the proposed product; no usable application is available here yet.
+**Today:** source code and tests are present; local integration is underway. See the [development guide](docs/DEVELOPMENT.md) for setup and verification status.
 
 [Catalogue](https://github.com/libre-ai/.github/blob/main/profile/README.md) · [Contribute](https://github.com/libre-ai/.github/blob/main/CONTRIBUTING.md) · [Français](README.fr.md) · [CC BY 4.0 license](LICENSES/CC-BY-4.0.txt)
