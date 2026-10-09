@@ -8,7 +8,7 @@ import entry from "../../art30-register.json";
 describe("apps/sessions/art30-register.json", () => {
   test("passes the shared ProcessingActivity validator", () => {
     const activity = validateProcessingActivity(entry);
-    expect(activity.product).toBe("libre-ai/sessions");
+    expect(activity.product).toBe("libre-ai/learning-session-facilitation");
     expect(activity.retentionRule).toBe("sessions-content");
     // Access (Art. 15), erasure (Art. 17), portability (Art. 20) and
     // restriction (Art. 18) are implemented; rectification and objection stay
@@ -23,7 +23,7 @@ describe("apps/sessions/art30-register.json", () => {
 
   test("renders into the generated register", () => {
     const register = generateArt30Register([validateProcessingActivity(entry)]);
-    expect(register).toContain("## libre-ai/sessions — Sessions collaborative events");
+    expect(register).toContain("## libre-ai/learning-session-facilitation — Sessions collaborative events");
     expect(register).toContain("- **Retention rule:** sessions-content");
   });
 });
