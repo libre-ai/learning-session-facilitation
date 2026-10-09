@@ -1,6 +1,6 @@
 {
   "name": "Sessions collaborative events",
-  "product": "libre-ai/sessions",
+  "product": "libre-ai/learning-session-facilitation",
   "dataCategories": ["communication", "audit"],
   "purposes": ["collaborative-work", "compliance-audit"],
   "legalBasis": "contract",
